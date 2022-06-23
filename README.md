@@ -10,4 +10,6 @@ The dataset I am using in this blog comes from Kaggle. The data was collected fr
 
 Source: https://www.kaggle.com/datasnaek/chess
 
+## How do Number of Turns affect Outcome?
+![Distribution of Turns by Outcome](https://user-images.githubusercontent.com/94267209/175302163-d339d811-b363-4fa5-ab41-e91c0200a41d.png)
 
